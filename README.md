@@ -1,3 +1,5 @@
 # testerepo-
 
-repostorio de testes de comandos git e github
+## Editando repositório
+
+Repositório de testes de comandos git e github.
